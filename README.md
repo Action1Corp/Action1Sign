@@ -60,4 +60,4 @@ Use `-` for one input path to read from stdin. For example:
 - [SECURITY_NOTICE](./SECURITY_NOTICE.md)
 - [NOTICE](./NOTICE.md)
 - [TERMS_OF_USE](./TERMS_OF_USE.md)
-- [THIRD_PARTY_NOTICES](./THIRD_PARTY_NOTICES.txt)
+- [THIRD_PARTY_NOTICES](./THIRD_PARTY_NOTICES.md)
