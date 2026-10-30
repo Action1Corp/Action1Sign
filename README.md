@@ -53,11 +53,6 @@ Use `-` for one input path to read from stdin. For example:
 ./action1sign --config=- --action1-key=Action1.key --passphrase-file=passphrase.txt --out=signature.json < config.json
 ```
 
-## Terms of use
-
-Use of Action1 Sign Tool and this repository's materials is subject to the [Action1 Public Repository Terms of Use](TERMS_OF_USE.md).
-Third-party components are covered by their respective licenses in the notices below.
-
 ## Additional Notices
 
 - [DISCLAIMER](./DISCLAIMER.md)
